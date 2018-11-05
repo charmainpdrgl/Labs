@@ -1,0 +1,7 @@
+H:\My Documents\IN510 Programming 1\Programming Lab #3\6DaysandHours\6DaysandHours\obj\Debug\6DaysandHours.csproj.CoreCompileInputs.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #3\6DaysandHours\6DaysandHours\bin\Debug\6DaysandHours.exe.config
+H:\My Documents\IN510 Programming 1\Programming Lab #3\6DaysandHours\6DaysandHours\bin\Debug\6DaysandHours.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #3\6DaysandHours\6DaysandHours\bin\Debug\6DaysandHours.pdb
+H:\My Documents\IN510 Programming 1\Programming Lab #3\6DaysandHours\6DaysandHours\obj\Debug\6DaysandHours.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #3\6DaysandHours\6DaysandHours\obj\Debug\6DaysandHours.pdb
+H:\My Documents\IN510 Programming 1\Programming Lab #3\6DaysandHours\6DaysandHours\obj\Debug\6DaysandHours.csprojAssemblyReference.cache

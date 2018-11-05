@@ -1,0 +1,6 @@
+H:\My Documents\IN510 Programming 1\Programming Lab #3\3PercentageIncrease\3PercentageIncrease\bin\Debug\3PercentageIncrease.exe.config
+H:\My Documents\IN510 Programming 1\Programming Lab #3\3PercentageIncrease\3PercentageIncrease\bin\Debug\3PercentageIncrease.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #3\3PercentageIncrease\3PercentageIncrease\bin\Debug\3PercentageIncrease.pdb
+H:\My Documents\IN510 Programming 1\Programming Lab #3\3PercentageIncrease\3PercentageIncrease\obj\Debug\3PercentageIncrease.csproj.CoreCompileInputs.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #3\3PercentageIncrease\3PercentageIncrease\obj\Debug\3PercentageIncrease.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #3\3PercentageIncrease\3PercentageIncrease\obj\Debug\3PercentageIncrease.pdb

@@ -1,0 +1,7 @@
+H:\My Documents\IN510 Programming 1\Programming Lab #3\1 Milk Prices\1 Milk Prices\obj\Debug\1 Milk Prices.csprojAssemblyReference.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #3\1 Milk Prices\1 Milk Prices\obj\Debug\1 Milk Prices.csproj.CoreCompileInputs.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #3\1 Milk Prices\1 Milk Prices\bin\Debug\1 Milk Prices.exe.config
+H:\My Documents\IN510 Programming 1\Programming Lab #3\1 Milk Prices\1 Milk Prices\bin\Debug\1 Milk Prices.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #3\1 Milk Prices\1 Milk Prices\bin\Debug\1 Milk Prices.pdb
+H:\My Documents\IN510 Programming 1\Programming Lab #3\1 Milk Prices\1 Milk Prices\obj\Debug\1 Milk Prices.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #3\1 Milk Prices\1 Milk Prices\obj\Debug\1 Milk Prices.pdb

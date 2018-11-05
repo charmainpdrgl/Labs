@@ -1,0 +1,6 @@
+H:\My Documents\IN510 Programming 1\Programming Lab #3\4CelsiusToFahrenheit\4CelsiusToFahrenheit\obj\Debug\4CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #3\4CelsiusToFahrenheit\4CelsiusToFahrenheit\bin\Debug\4CelsiusToFahrenheit.exe.config
+H:\My Documents\IN510 Programming 1\Programming Lab #3\4CelsiusToFahrenheit\4CelsiusToFahrenheit\bin\Debug\4CelsiusToFahrenheit.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #3\4CelsiusToFahrenheit\4CelsiusToFahrenheit\bin\Debug\4CelsiusToFahrenheit.pdb
+H:\My Documents\IN510 Programming 1\Programming Lab #3\4CelsiusToFahrenheit\4CelsiusToFahrenheit\obj\Debug\4CelsiusToFahrenheit.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #3\4CelsiusToFahrenheit\4CelsiusToFahrenheit\obj\Debug\4CelsiusToFahrenheit.pdb
