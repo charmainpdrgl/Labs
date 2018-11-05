@@ -1,0 +1,6 @@
+H:\My Documents\IN510 Programming 1\Programming Lab #5\3Heads or Tails\3Heads or Tails\bin\Debug\3Heads or Tails.exe.config
+H:\My Documents\IN510 Programming 1\Programming Lab #5\3Heads or Tails\3Heads or Tails\bin\Debug\3Heads or Tails.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #5\3Heads or Tails\3Heads or Tails\bin\Debug\3Heads or Tails.pdb
+H:\My Documents\IN510 Programming 1\Programming Lab #5\3Heads or Tails\3Heads or Tails\obj\Debug\3Heads or Tails.csproj.CoreCompileInputs.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #5\3Heads or Tails\3Heads or Tails\obj\Debug\3Heads or Tails.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #5\3Heads or Tails\3Heads or Tails\obj\Debug\3Heads or Tails.pdb

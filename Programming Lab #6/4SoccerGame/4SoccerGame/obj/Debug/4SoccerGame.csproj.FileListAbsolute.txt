@@ -1,0 +1,7 @@
+H:\My Documents\IN510 Programming 1\Programming Lab #6\4SoccerGame\4SoccerGame\obj\Debug\4SoccerGame.csprojAssemblyReference.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #6\4SoccerGame\4SoccerGame\obj\Debug\4SoccerGame.csproj.CoreCompileInputs.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #6\4SoccerGame\4SoccerGame\bin\Debug\4SoccerGame.exe.config
+H:\My Documents\IN510 Programming 1\Programming Lab #6\4SoccerGame\4SoccerGame\bin\Debug\4SoccerGame.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #6\4SoccerGame\4SoccerGame\bin\Debug\4SoccerGame.pdb
+H:\My Documents\IN510 Programming 1\Programming Lab #6\4SoccerGame\4SoccerGame\obj\Debug\4SoccerGame.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #6\4SoccerGame\4SoccerGame\obj\Debug\4SoccerGame.pdb

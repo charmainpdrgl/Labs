@@ -1,0 +1,2 @@
+H:\My Documents\IN510 Programming 1\Programming Lab #5\1Hoard It Banks\1Hoard It Banks\obj\Debug\1Hoard It Banks.csprojAssemblyReference.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #5\1Hoard It Banks\1Hoard It Banks\obj\Debug\1Hoard It Banks.csproj.CoreCompileInputs.cache
