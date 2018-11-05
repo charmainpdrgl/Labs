@@ -1,0 +1,7 @@
+H:\My Documents\IN510 Programming 1\Programming Lab #10\5Dice Roll\5Dice Roll\bin\Debug\5Dice Roll.exe.config
+H:\My Documents\IN510 Programming 1\Programming Lab #10\5Dice Roll\5Dice Roll\bin\Debug\5Dice Roll.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #10\5Dice Roll\5Dice Roll\bin\Debug\5Dice Roll.pdb
+H:\My Documents\IN510 Programming 1\Programming Lab #10\5Dice Roll\5Dice Roll\obj\Debug\5Dice Roll.csprojAssemblyReference.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #10\5Dice Roll\5Dice Roll\obj\Debug\5Dice Roll.csproj.CoreCompileInputs.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #10\5Dice Roll\5Dice Roll\obj\Debug\5Dice Roll.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #10\5Dice Roll\5Dice Roll\obj\Debug\5Dice Roll.pdb

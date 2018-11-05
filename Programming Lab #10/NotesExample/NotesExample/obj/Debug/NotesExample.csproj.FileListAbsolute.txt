@@ -1,0 +1,6 @@
+H:\My Documents\IN510 Programming 1\Programming Lab #10\NotesExample\NotesExample\bin\Debug\NotesExample.exe.config
+H:\My Documents\IN510 Programming 1\Programming Lab #10\NotesExample\NotesExample\bin\Debug\NotesExample.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #10\NotesExample\NotesExample\bin\Debug\NotesExample.pdb
+H:\My Documents\IN510 Programming 1\Programming Lab #10\NotesExample\NotesExample\obj\Debug\NotesExample.csproj.CoreCompileInputs.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #10\NotesExample\NotesExample\obj\Debug\NotesExample.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #10\NotesExample\NotesExample\obj\Debug\NotesExample.pdb

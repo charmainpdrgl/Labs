@@ -1,0 +1,7 @@
+H:\My Documents\IN510 Programming 1\Programming Lab #9\2Guessing Game\2Guessing Game\obj\Debug\2Guessing Game.csprojAssemblyReference.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #9\2Guessing Game\2Guessing Game\obj\Debug\2Guessing Game.csproj.CoreCompileInputs.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #9\2Guessing Game\2Guessing Game\bin\Debug\2Guessing Game.exe.config
+H:\My Documents\IN510 Programming 1\Programming Lab #9\2Guessing Game\2Guessing Game\bin\Debug\2Guessing Game.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #9\2Guessing Game\2Guessing Game\bin\Debug\2Guessing Game.pdb
+H:\My Documents\IN510 Programming 1\Programming Lab #9\2Guessing Game\2Guessing Game\obj\Debug\2Guessing Game.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #9\2Guessing Game\2Guessing Game\obj\Debug\2Guessing Game.pdb

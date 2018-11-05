@@ -1,0 +1,7 @@
+H:\My Documents\IN510 Programming 1\Programming Lab #11\Animation Example 2\Animation Example 2\bin\Debug\Animation Example 2.exe.config
+H:\My Documents\IN510 Programming 1\Programming Lab #11\Animation Example 2\Animation Example 2\bin\Debug\Animation Example 2.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #11\Animation Example 2\Animation Example 2\bin\Debug\Animation Example 2.pdb
+H:\My Documents\IN510 Programming 1\Programming Lab #11\Animation Example 2\Animation Example 2\obj\Debug\Animation Example 2.csprojResolveAssemblyReference.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #11\Animation Example 2\Animation Example 2\obj\Debug\Animation Example 2.csproj.CoreCompileInputs.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #11\Animation Example 2\Animation Example 2\obj\Debug\Animation Example 2.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #11\Animation Example 2\Animation Example 2\obj\Debug\Animation Example 2.pdb
