@@ -1,0 +1,7 @@
+H:\My Documents\IN510 Programming 1\TEST\YourUserName\YourUserName\obj\Debug\YourUserName.csprojAssemblyReference.cache
+H:\My Documents\IN510 Programming 1\TEST\YourUserName\YourUserName\obj\Debug\YourUserName.csproj.CoreCompileInputs.cache
+H:\My Documents\IN510 Programming 1\TEST\YourUserName\YourUserName\bin\Debug\YourUserName.exe.config
+H:\My Documents\IN510 Programming 1\TEST\YourUserName\YourUserName\bin\Debug\YourUserName.exe
+H:\My Documents\IN510 Programming 1\TEST\YourUserName\YourUserName\bin\Debug\YourUserName.pdb
+H:\My Documents\IN510 Programming 1\TEST\YourUserName\YourUserName\obj\Debug\YourUserName.exe
+H:\My Documents\IN510 Programming 1\TEST\YourUserName\YourUserName\obj\Debug\YourUserName.pdb
