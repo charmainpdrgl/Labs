@@ -1,0 +1,6 @@
+H:\My Documents\IN510 Programming 1\Programming Lab #12\4NumberGuessing\4NumberGuessing\obj\Debug\4NumberGuessing.csproj.CoreCompileInputs.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #12\4NumberGuessing\4NumberGuessing\bin\Debug\4NumberGuessing.exe.config
+H:\My Documents\IN510 Programming 1\Programming Lab #12\4NumberGuessing\4NumberGuessing\bin\Debug\4NumberGuessing.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #12\4NumberGuessing\4NumberGuessing\bin\Debug\4NumberGuessing.pdb
+H:\My Documents\IN510 Programming 1\Programming Lab #12\4NumberGuessing\4NumberGuessing\obj\Debug\4NumberGuessing.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #12\4NumberGuessing\4NumberGuessing\obj\Debug\4NumberGuessing.pdb

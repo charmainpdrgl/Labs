@@ -1,0 +1,7 @@
+H:\My Documents\IN510 Programming 1\Lab #24\4\4\bin\Debug\4.exe.config
+H:\My Documents\IN510 Programming 1\Lab #24\4\4\bin\Debug\4.exe
+H:\My Documents\IN510 Programming 1\Lab #24\4\4\bin\Debug\4.pdb
+H:\My Documents\IN510 Programming 1\Lab #24\4\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+H:\My Documents\IN510 Programming 1\Lab #24\4\4\obj\Debug\4.exe
+H:\My Documents\IN510 Programming 1\Lab #24\4\4\obj\Debug\4.pdb
+H:\My Documents\IN510 Programming 1\Lab #24\4\4\obj\Debug\4.csprojAssemblyReference.cache

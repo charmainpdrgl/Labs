@@ -1,0 +1,7 @@
+H:\My Documents\IN510 Programming 1\Programming Lab #14\1\1\bin\Debug\1.exe.config
+H:\My Documents\IN510 Programming 1\Programming Lab #14\1\1\bin\Debug\1.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #14\1\1\bin\Debug\1.pdb
+H:\My Documents\IN510 Programming 1\Programming Lab #14\1\1\obj\Debug\1.csprojAssemblyReference.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #14\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #14\1\1\obj\Debug\1.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #14\1\1\obj\Debug\1.pdb
