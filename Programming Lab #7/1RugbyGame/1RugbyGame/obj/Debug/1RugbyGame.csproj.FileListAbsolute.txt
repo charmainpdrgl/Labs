@@ -1,0 +1,2 @@
+H:\My Documents\IN510 Programming 1\Programming Lab #7\1RugbyGame\1RugbyGame\obj\Debug\1RugbyGame.csprojAssemblyReference.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #7\1RugbyGame\1RugbyGame\obj\Debug\1RugbyGame.csproj.CoreCompileInputs.cache
