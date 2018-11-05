@@ -1,0 +1,7 @@
+H:\My Documents\IN510 Programming 1\Programming Lab #2\1WhoAreYou\1WhoAreYou\bin\Debug\1WhoAreYou.exe.config
+H:\My Documents\IN510 Programming 1\Programming Lab #2\1WhoAreYou\1WhoAreYou\bin\Debug\1WhoAreYou.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #2\1WhoAreYou\1WhoAreYou\bin\Debug\1WhoAreYou.pdb
+H:\My Documents\IN510 Programming 1\Programming Lab #2\1WhoAreYou\1WhoAreYou\obj\Debug\1WhoAreYou.csprojAssemblyReference.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #2\1WhoAreYou\1WhoAreYou\obj\Debug\1WhoAreYou.csproj.CoreCompileInputs.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #2\1WhoAreYou\1WhoAreYou\obj\Debug\1WhoAreYou.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #2\1WhoAreYou\1WhoAreYou\obj\Debug\1WhoAreYou.pdb

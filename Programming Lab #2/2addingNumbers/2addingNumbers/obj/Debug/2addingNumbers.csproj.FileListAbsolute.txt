@@ -1,0 +1,6 @@
+H:\My Documents\IN510 Programming 1\Programming Lab #2\2addingNumbers\2addingNumbers\obj\Debug\2addingNumbers.csproj.CoreCompileInputs.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #2\2addingNumbers\2addingNumbers\bin\Debug\2addingNumbers.exe.config
+H:\My Documents\IN510 Programming 1\Programming Lab #2\2addingNumbers\2addingNumbers\bin\Debug\2addingNumbers.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #2\2addingNumbers\2addingNumbers\bin\Debug\2addingNumbers.pdb
+H:\My Documents\IN510 Programming 1\Programming Lab #2\2addingNumbers\2addingNumbers\obj\Debug\2addingNumbers.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #2\2addingNumbers\2addingNumbers\obj\Debug\2addingNumbers.pdb

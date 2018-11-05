@@ -1,0 +1,7 @@
+H:\My Documents\IN510 Programming 1\Programming Lab #2\5AgeCalculator\5AgeCalculator\bin\Debug\5AgeCalculator.exe.config
+H:\My Documents\IN510 Programming 1\Programming Lab #2\5AgeCalculator\5AgeCalculator\bin\Debug\5AgeCalculator.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #2\5AgeCalculator\5AgeCalculator\bin\Debug\5AgeCalculator.pdb
+H:\My Documents\IN510 Programming 1\Programming Lab #2\5AgeCalculator\5AgeCalculator\obj\Debug\5AgeCalculator.csprojAssemblyReference.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #2\5AgeCalculator\5AgeCalculator\obj\Debug\5AgeCalculator.csproj.CoreCompileInputs.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #2\5AgeCalculator\5AgeCalculator\obj\Debug\5AgeCalculator.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #2\5AgeCalculator\5AgeCalculator\obj\Debug\5AgeCalculator.pdb
