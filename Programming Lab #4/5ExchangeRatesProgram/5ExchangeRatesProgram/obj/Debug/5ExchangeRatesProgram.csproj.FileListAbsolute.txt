@@ -1,0 +1,7 @@
+H:\My Documents\IN510 Programming 1\Programming Lab #4\5ExchangeRatesProgram\5ExchangeRatesProgram\bin\Debug\5ExchangeRatesProgram.exe.config
+H:\My Documents\IN510 Programming 1\Programming Lab #4\5ExchangeRatesProgram\5ExchangeRatesProgram\bin\Debug\5ExchangeRatesProgram.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #4\5ExchangeRatesProgram\5ExchangeRatesProgram\bin\Debug\5ExchangeRatesProgram.pdb
+H:\My Documents\IN510 Programming 1\Programming Lab #4\5ExchangeRatesProgram\5ExchangeRatesProgram\obj\Debug\5ExchangeRatesProgram.csprojAssemblyReference.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #4\5ExchangeRatesProgram\5ExchangeRatesProgram\obj\Debug\5ExchangeRatesProgram.csproj.CoreCompileInputs.cache
+H:\My Documents\IN510 Programming 1\Programming Lab #4\5ExchangeRatesProgram\5ExchangeRatesProgram\obj\Debug\5ExchangeRatesProgram.exe
+H:\My Documents\IN510 Programming 1\Programming Lab #4\5ExchangeRatesProgram\5ExchangeRatesProgram\obj\Debug\5ExchangeRatesProgram.pdb
